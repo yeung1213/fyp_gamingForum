@@ -1,0 +1,12 @@
+{
+    "url": "https://127.0.0.1:4567",
+    "secret": "425d765b-475d-49db-a203-f7e4bc11f59f",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "admin",
+        "password": "admin",
+        "database": "nodebb"
+    }
+}
