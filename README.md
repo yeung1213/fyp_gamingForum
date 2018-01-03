@@ -1,1 +1,1 @@
-This repository is modified by NodeBB and for final year project purpose.
+This repository is modified from NodeBB and for final year project purpose.
