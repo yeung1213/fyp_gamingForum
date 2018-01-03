@@ -1,0 +1,12 @@
+{
+	"custom-css": "Uživatelský CSS",
+	"custom-css.description": "Zadejte vlastní deklarace CSS, které budou použity na všechny ostatních styly.",
+	"custom-css.enable": "Povolit uživatelské CSS",
+
+	"custom-header": "Uživatelská hlavička",
+	"custom-header.description": "Zadejte zde uživatelské HTML (např.: javascript, meta značky, atp.), které bude přiřazeno k <code>&lt;head&gt;</code>  části značek vašeho fóra.",
+	"custom-header.enable": "Povolit uživatelskou hlavičku",
+
+	"custom-css.livereload": "Povolit aktuální znovu načtení",
+	"custom-css.livereload.description": "Povolením si vynutíte, aby všechny relace na každém zařízení pod vaším účtem se kdykoliv obnovili při kliknutí na tlačítko \"Uložit\"."
+}

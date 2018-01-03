@@ -1,0 +1,12 @@
+{
+	"custom-css": "ปรับแต่ง CSS",
+	"custom-css.description": "ใส่ CSS ของคุณที่นี่, มันจะถูกนำไปใช้ต่อจากสไตล์อื่นๆ",
+	"custom-css.enable": "เปิดการปรับแต่ง CSS",
+
+	"custom-header": "ปรับแต่งส่วนหัว",
+	"custom-header.description": "ใส่การปรับแต่ง HTML ที่นี่ (เช่น JavaScript, Meta Tags หรืออื่นๆ) , มันจะถูกเพิ่มใน <code>&lt;head&gt;</code>ของส่วนฟอรั่มของคุณ",
+	"custom-header.enable": "เปิดการปรับแต่งส่วนหัว",
+
+	"custom-css.livereload": "เปิดการบังคับให้มีผลในทันที",
+	"custom-css.livereload.description": "การเปิดนี้จะบังคับทุกเซสชั่นบนทุกอุปกรณ์ภายใต้บัญชีของคุณให้ถูกรีเฟรชทันทีที่คุณกดบันทึก"
+}
